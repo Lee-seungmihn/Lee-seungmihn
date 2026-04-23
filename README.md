@@ -20,7 +20,11 @@
 
 #### 2025/12~2026/4
 
-- 국비과정(소프트웨어 응용 및 ai 활용)을 통하여 **Spring Boot**와 **MyBatis**를 이용한 효율적인 데이터 처리 및 **RESTful API** 설계 역량을 쌓아가고 있습니다.
+국비과정(소프트웨어 응용 및 ai 활용)을 통하여
+
+- Spring Boot & MyBatis 조합을 활용하여 데이터 CRUD 로직 및 효율적인 비즈니스 서비스 구현을 실습했습니다.
+- RESTful API 설계와 함께 Spring Security, JWT, OAuth2를 적용한 보안 인증 체계와 소셜 로그인 기능을 직접 구현했습니다.
+- WebSocket을 이용한 실시간 통신 기능 및 BootPay, SMTP, Kakao API 등 실무형 외부 API 연동 프로젝트를 수행하며 백엔드 역량을 확장했습니다.
 
 <br>
 <br>
